@@ -1,0 +1,9 @@
+/* @import './base.css'; */
+
+#app {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-weight: normal;
+  margin-top: 20px;
+}
